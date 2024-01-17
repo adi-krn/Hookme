@@ -29,7 +29,7 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
 ## Contributing
 We welcome contributions from the community! Feel free to submit bug reports, feature requests, or even pull requests to help make this Realtime Open Room Chat App better for everyone.
 
-## Required Node dependencies -
+## Required Node dependencies (ensure installation before running)-
 - **1.Express**
 - **2.Socket.io**
 - **3.Nodemon(recommended but optional)**
