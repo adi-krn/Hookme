@@ -35,3 +35,5 @@ We welcome contributions from the community! Feel free to submit bug reports, fe
 - **1.Express**
 - **2.Socket.io**
 - **3.Nodemon(recommended but optional)**
+
+## Link to the Practical Load Balancer Implementation Repo : https://github.com/adi-krn/Load-balancer (will be implemented with the web-app and pushed - Load balancer temporarily not available in the app due to unavoidable errors)
