@@ -1,4 +1,4 @@
-# Realtime Open Room Chat App
+# Hookme - Realtime Open Room Chat App
 
 ## Overview
 Welcome to our Realtime Open Room Chat App! This application provides users with a seamless and interactive real-time chat experience in open rooms. Whether you want to engage in lively discussions, connect with like-minded individuals, or simply share your thoughts with the community, our chat app offers a dynamic platform for communication.
