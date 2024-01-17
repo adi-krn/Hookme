@@ -9,7 +9,11 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
 - **User-friendly Interface:** Our intuitive and user-friendly interface ensures a smooth navigation experience for users of all levels of technical proficiency.
 
 **Usage:**
-   - Open your preferred web browser and navigate to `http://localhost:3000` to access the Realtime Open Room Chat App.
+   Step1: clone your repository
+   Step2: run "npm -i"
+   Step3: ng serve
+
+   You are good to go. Enjoy your access to the Realtime Open Room Chat App.
 
 ## Technologies Used
 - **Frontend:**
