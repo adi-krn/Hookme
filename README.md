@@ -8,12 +8,12 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
 - **Open Rooms:** Join public chat rooms and ignite a conversation to meet people with similar passions.
 - **User-friendly Interface:** Our intuitive and user-friendly interface ensures a smooth navigation experience for users of all levels of technical proficiency.
 
-**Usage:**
-   Step1: clone your repository
-   Step2: run "npm -i"
-   Step3: ng serve
+##Usage:
+   ###Step1: clone your repository
+   ###Step2: run "npm -i"
+   ###Step3: ng serve
 
-   You are good to go. Enjoy your access to the Realtime Open Room Chat App.
+   ####You are good to go. Enjoy your access to the Realtime Open Room Chat App.
 
 ## Technologies Used
 - **Frontend:**
