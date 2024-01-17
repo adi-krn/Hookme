@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# Build files
+/build
+/dist
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# macOS system files
+.DS_Store
+
+# User-specific files
+Thumbs.db
+
+# Editor files
+*.swp
+*~
+
+# Compiled binary files
+*.pyc
+*.pyo
+
+# OS-generated files
+ehthumbs.db
+Icon?
