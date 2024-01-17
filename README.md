@@ -13,7 +13,7 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
    **Step1: clone your repository** <br/>
    **Step2: run "npm -i"**  <br/>
    **Step3: ng serve** <br/>
-   **Step4: Ensure that the required Node dependencies are installed. A list of them is mentioned below** <br/>
+   **Step4: Ensure that the required Node dependencies are installed. A list of them is mentioned below.** <br/>
    **Step5: open your preferred web browser and navigate to http://localhost:4000 (or the specified port - if you happen to change it) to access the Realtime Open Room Chat App.** <br/>
 
    **You are good to go. Enjoy your access to the Realtime Open Room Chat App.**
