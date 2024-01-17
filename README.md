@@ -5,9 +5,8 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
 
 ## Features
 - **Realtime Communication:** Enjoy instant messaging with other users in open rooms, fostering a sense of immediacy and connection.
-- **Open Rooms:** Join public chat rooms based on different topics, interests, or themes to meet people with similar passions.
+- **Open Rooms:** Join public chat rooms and ignite a conversation to meet people with similar passions.
 - **User-friendly Interface:** Our intuitive and user-friendly interface ensures a smooth navigation experience for users of all levels of technical proficiency.
-- **Customizable Profiles:** Personalize your profile with avatars, usernames, and brief descriptions to express your unique identity within the community.
 
 **Usage:**
    - Open your preferred web browser and navigate to `http://localhost:3000` to access the Realtime Open Room Chat App.
