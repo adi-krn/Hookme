@@ -8,8 +8,8 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
 - **Open Rooms:** Join public chat rooms and ignite a conversation to meet people with similar passions.
 - **User-friendly Interface:** Our intuitive and user-friendly interface ensures a smooth navigation experience for users of all levels of technical proficiency.
 - Change your username when you join the server. By default, you will be labeled as anonymous.
-- <img src="./public/usernamedemo_1"/>
-- <img src="./public/usernamedemo_2"/>
+- <img src="./public/usernamedemo_1.png"/>
+- <img src="./public/usernamedemo_2.png"/>
 
 ## Usage:
    **Step1: clone your repository** <br/>
@@ -19,7 +19,7 @@ Welcome to our Realtime Open Room Chat App! This application provides users with
    **Step5: open your preferred web browser and navigate to http://localhost:4000 (or the specified port - if you happen to change it) to access the Realtime Open Room Chat App.** <br/>
 
    **You are good to go. Enjoy your access to the Realtime Open Room Chat App.**
-   <img src="./public/chat_demo"/>
+   <img src="./public/chat_demo.png"/>
 
 ## Technologies Used
 - **Frontend:**
